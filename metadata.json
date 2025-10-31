@@ -1,0 +1,5 @@
+{
+  "name": "VenturIQ",
+  "description": "VenturIQ is an AI-powered tool for investors to evaluate startups by analyzing pitch decks, founder updates, and public data to generate structured deal notes, benchmarks, and investment recommendations.",
+  "requestFramePermissions": ["microphone"]
+}
